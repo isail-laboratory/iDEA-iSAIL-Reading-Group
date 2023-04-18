@@ -30,7 +30,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 30, 2022 |  Blaine Hill / Xinrui He  |          TBD          |    TBD    |
 | Apr 06, 2022 | Lecheng Zheng |   SDM Paper Dry Run   |           |
 | Apr 13, 2022 | Lecheng Zheng | SDM Tutorial Dry Run  |           |
-| Apr 20, 2022 |  Alex Zheng   |                       |           |
+| Apr 20, 2022 |  Alex Zheng   | A Post-Training Framework for Improving Heterogeneous Graph Neural Networks |  [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/post-training-framework-heterogeneous-gnn)         |
 | Apr 27, 2022 | Wenxuan Bao |                       |           |
 | May 04, 2022 | Qinghai Zhou  |                       |           |
 | May 11, 2022 |       Yunzhe Qi        |                       |           |
