@@ -35,7 +35,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 16, 2024 | Eunice Chan |                       |           |
 | Apr 23, 2024 |Ishika Agarwal |                       |           |
 | Apr 30, 2024 | |                       |           |
-| May 07, 2024 | |                       |           |
+| May 07, 2024 |Yuchen Yan |                       |           |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2023:</span>
 
