@@ -27,7 +27,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 17, 2024 | Xinyu He      |                       |           |
 | Oct 24, 2024 | Tianxin Wei              |                       |           |
 | Oct 31, 2024 | Lecheng Zheng  |                       |           |
-| Nov 07, 2024 | Ting-Wei Li    | Machine Unlearning w/ Data Attribution      |   https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20241107.pdf |
+| Nov 07, 2024 | Ting-Wei Li    | Machine Unlearning w/ Data Attribution      |   [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20241107.pdf) |
 | Nov 14, 2024 | Zhe Xu |  RAG  | [Slides](https://drive.google.com/file/d/1Bu56fPQbAIi1kbUS1KAUFG3DrwVc2POd/view?usp=sharing) |
 | Nov 21, 2024 |      |                       |           |
 | Dec 05, 2024 | Jiaru Zou     |                       |           |
