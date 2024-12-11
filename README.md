@@ -10,9 +10,31 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 **Zoom (if online)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
-Unless otherwise notified, our reading group for **Fall 2024** is scheduled as follows. If you would like to present in an upcoming meeting, please edit the README.md and submit a pull request for registering. </span>
+Unless otherwise notified, our reading group for **Spring 2025** is scheduled as follows. If you would like to present in an upcoming meeting, please edit the README.md and submit a pull request for registering. </span>
 
-Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to present a week ahead of your presentation.
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2025:</span>
+
+| Dates        | Presenters | Topics | Materials |
+|--------------|------------|--------|-----------|
+| Jan 16, 2025 |            |        |           |
+| Jan 23, 2025 |            |        |           |
+| Jan 30, 2025 |            |        |           |
+| Feb 6, 2025  |            |        |           |
+| Feb 13, 2025 |            |        |           |
+| Feb 20, 2025 |            |        |           |
+| Feb 27, 2025 |            |        |           |
+| Mar 6, 2025  |            |        |           |
+| Mar 13, 2025 |            |        |           |
+| Mar 20, 2025 |            |        |           |
+| Mar 27, 2025 |            |        |           |
+| Apr 3, 2025  |            |        |           |
+| Apr 10, 2025 |            |        |           |
+| Apr 17, 2025 |            |        |           |
+| Apr 24, 2025 |            |        |           |
+| May 1, 2025  |            |        |           |
+| May 8, 2025  |            |        |           |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2024:</span>
 
