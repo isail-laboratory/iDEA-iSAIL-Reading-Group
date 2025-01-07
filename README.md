@@ -46,12 +46,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 26, 2024 | Yikun Ban, Lecheng Zheng |  KDD 2024 Debriefing |           |
 | Oct 03, 2024 | Ruizhong Qiu, Zihao Li  | ICML 2024 Debriefing  |  [Score Entropy](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20241003.pdf) [LLM honesty](https://docs.google.com/presentation/d/1AwKOrfV-pfeok_yafD8ZqmJTirCkRQNRYASniPpr4MY/edit#slide=id.g240b1b2dbd6_0_0)|
 | Oct 10, 2024 | Xiao Lin        |     State Space Model and Mamba          |    [Slides](https://docs.google.com/presentation/d/14aV1rGHCtYo5ugMPvvPG9Vf8V7qvueinJ9QJMyjMLxA/edit?usp=sharing)       |
-| Oct 17, 2024 | Xinyu He      |                       |           |
+| Oct 17, 2024 | Xinyu He      | On the Sensitivity of Individual Fairness   | [Paper](https://dl.acm.org/doi/10.1145/3627673.3679721) |
 | Oct 24, 2024 | Tianxin Wei              |                       |           |
-| Oct 31, 2024 | Lecheng Zheng  |                       |           |
+| Oct 31, 2024 | Lecheng Zheng  | Job Talk Dry Run  |           |
 | Nov 07, 2024 | Ting-Wei Li    | Machine Unlearning w/ Data Attribution      |   [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20241107.pdf) |
 | Nov 14, 2024 | Zhe Xu |  RAG  | [Slides](https://drive.google.com/file/d/1Bu56fPQbAIi1kbUS1KAUFG3DrwVc2POd/view?usp=sharing) |
-| Nov 21, 2024 |      |                       |           |
+| Nov 21, 2024 | Professors  | Interesting Research Topics on RAG   |           |
 | Dec 05, 2024 | Jiaru Zou     |                       |           |
 
 
