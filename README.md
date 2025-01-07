@@ -24,7 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 6, 2025  |            |        |           |
 | Feb 13, 2025 |            |        |           |
 | Feb 20, 2025 |            |        |           |
-| Feb 27, 2025 |            |        |           |
+| Feb 27, 2025 |Xuying Ning |  TBD   | TBD       |
 | Mar 6, 2025  |            |        |           |
 | Mar 13, 2025 |            |        |           |
 | Mar 20, 2025 | Zihao Li   | TBD    | TBD       |
