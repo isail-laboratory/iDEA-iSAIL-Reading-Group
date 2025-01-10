@@ -22,7 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 23, 2025 |            |        |           |
 | Jan 30, 2025 |            |        |           |
 | Feb 6, 2025  |            |        |           |
-| Feb 13, 2025 |            |        |           |
+| Feb 13, 2025 | Xiao Lin, Zhe Xu, Jiaru Zou | NeurIPS 2024 Debriefing  | TBD       |
 | Feb 20, 2025 |   Gaotang  |        |           |
 | Feb 27, 2025 |Xuying Ning |  TBD   | TBD       |
 | Mar 6, 2025  |            |        |           |
@@ -52,7 +52,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 07, 2024 | Ting-Wei Li    | Machine Unlearning w/ Data Attribution      |   [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20241107.pdf) |
 | Nov 14, 2024 | Zhe Xu |  RAG  | [Slides](https://drive.google.com/file/d/1Bu56fPQbAIi1kbUS1KAUFG3DrwVc2POd/view?usp=sharing) |
 | Nov 21, 2024 | Professors  | Interesting Research Topics on RAG   |           |
-| Dec 05, 2024 | Jiaru Zou     |                       |           |
+| Dec 05, 2024 | Jiaru Zou     | LLM Hallucination in RAG | [Slides](https://uillinoisedu-my.sharepoint.com/:p:/g/personal/jiaruz2_illinois_edu/ERTuR4E_6MBDmethcy9y5cYByunRgSE6TL13oAIZyv528g?e=d1eg9K&nav=eyJzSWQiOjI1Nn0&CID=84d09e81-c302-78f2-00fc-31c1a89f7e58)       |
 
 
 
