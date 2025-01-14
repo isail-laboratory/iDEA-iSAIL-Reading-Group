@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 13, 2025 |            |        |           |
 | Mar 20, 2025 | Zihao Li   | TBD    | TBD       |
 | Mar 27, 2025 | Zhining Liu | TBD   | TBD       |
-| Apr 3, 2025  |            |        |           |
+| Apr 3, 2025  | Xinyu He, Xinrui He | TBD    |           |
 | Apr 10, 2025 |            |        |           |
 | Apr 17, 2025 |            |        |           |
 | Apr 24, 2025 |            |        |           |
