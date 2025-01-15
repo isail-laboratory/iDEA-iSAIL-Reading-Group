@@ -32,7 +32,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 3, 2025  | Xinyu He, Xinrui He | TBD    |           |
 | Apr 10, 2025 | Ting-Wei Li |  TBD  |     TBD   |
 | Apr 17, 2025 |  Hyunsik Yoo          |    TBD    |           |
-| Apr 24, 2025 |            |        |           |
+| Apr 24, 2025 |     Ziwei Wu       |     TBD   |      TBD     |
 | May 1, 2025  |            |        |           |
 | May 8, 2025  |            |        |           |
 
