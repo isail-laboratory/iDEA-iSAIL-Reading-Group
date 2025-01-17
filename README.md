@@ -21,7 +21,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 16, 2025 |            |        |           |
 | Jan 23, 2025 |            |        |           |
 | Jan 30, 2025 |            |        |           |
-| Feb 6, 2025  |            |        |           |
+| Feb 6, 2025  | Zhe Xu | TBD |           |
 | Feb 13, 2025 | Xiao Lin, Zhe Xu, Jiaru Zou | NeurIPS 2024 Debriefing  | TBD       |
 | Feb 20, 2025 |   Gaotang  |        |           |
 | Feb 27, 2025 |Xuying Ning |  TBD   | TBD       |
