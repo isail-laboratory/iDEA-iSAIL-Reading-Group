@@ -18,7 +18,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates        | Presenters | Topics | Materials |
 |--------------|------------|--------|-----------|
-| Jan 23, 2025 | All Members | Plan for SP25 | N/A   |
+| Jan 23, 2025 | Prof. Tong, Ruizhong, Tingwei, Zhining, and All Members | Data Attribution Discussion & Plan for Spring2025 | N/A   |
 | Jan 30, 2025 |            |        |           |
 | Feb 6, 2025  | Zhe Xu | TBD |           |
 | Feb 13, 2025 | Xiao Lin, Zhe Xu, Jiaru Zou | NeurIPS 2024 Debriefing  | TBD       |
