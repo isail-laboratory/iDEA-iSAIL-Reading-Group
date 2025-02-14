@@ -21,7 +21,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 23, 2025 | All Members | Plan for Spring2025 | N/A   |
 | Jan 30, 2025 | Prof. Tong, Ruizhong, Tingwei, Zhining |  Data Attribution Discussion  |           |
 | Feb 6, 2025  | Zhe Xu | Flow Matching | [Slides](https://drive.google.com/file/d/1aiwdiTmuYGJW0wuwH-ivHmFvWZgEhrqq/view?usp=sharing) |
-| Feb 13, 2025 | Xiao Lin, Zhe Xu, Jiaru Zou | NeurIPS 2024 Debriefing  | TBD       |
+| Feb 13, 2025 | Xiao Lin, Zhe Xu, Jiaru Zou | NeurIPS 2024 Debriefing  | [Slides](https://docs.google.com/presentation/d/1EyfXR3nkrKERnq-vZJ7LByWQ-2CUqcxxdtgB0Qi-lFo/edit#slide=id.p)       |
 | Feb 20, 2025 |   Gaotang  |        |           |
 | Feb 27, 2025 |Xuying Ning |  TBD   | TBD       |
 | Mar 6, 2025  | Lecheng Zheng | TBD | TBD       |
