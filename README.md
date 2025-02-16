@@ -22,12 +22,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 30, 2025 | Prof. Tong, Ruizhong, Tingwei, Zhining |  Data Attribution Discussion  |           |
 | Feb 6, 2025  | Zhe Xu | Flow Matching | [Slides](https://drive.google.com/file/d/1aiwdiTmuYGJW0wuwH-ivHmFvWZgEhrqq/view?usp=sharing) |
 | Feb 13, 2025 | Xiao Lin, Zhe Xu, Jiaru Zou | NeurIPS 2024 Debriefing  | [Slides](https://docs.google.com/presentation/d/1EyfXR3nkrKERnq-vZJ7LByWQ-2CUqcxxdtgB0Qi-lFo/edit#slide=id.p)       |
-| Feb 20, 2025 |   Gaotang  |        |           |
+| Feb 20, 2025 | Zhining Liu | Tutorial for Making Research Plots  | [Slides](https://docs.google.com/presentation/d/1k0zfOAXeNAJsosuHOae6pnvx9GRUiekHZUKhtj4h9tw/edit?usp=sharing)  |
 | Feb 27, 2025 |Xuying Ning |  TBD   | TBD       |
 | Mar 6, 2025  | Lecheng Zheng | TBD | TBD       |
 | Mar 13, 2025 | Tianxin Wei  |  TBD   |    TBD    |
 | Mar 20, 2025 | Zihao Li   | TBD    | TBD       |
-| Mar 27, 2025 | Zhining Liu | TBD   | TBD       |
+| Mar 27, 2025 | Gaotang Li | TBD   | TBD       |
 | Apr 3, 2025  | Xinyu He, Xinrui He | TBD    |           |
 | Apr 10, 2025 | Ting-Wei Li |  TBD  |     TBD   |
 | Apr 17, 2025 |  Hyunsik Yoo          |    TBD    |           |
