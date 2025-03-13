@@ -26,14 +26,14 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 27, 2025 | Xuying Ning | Iterative Preference Optimization in VLM and Recommendation | [Slides](https://docs.google.com/presentation/d/1IBS0Bj2_qz7g6-EaL4YnjD7airVgjhzgRNgSNa3X1xo/edit?usp=sharing) |
 | Mar 6, 2025  | Tianxin Wei | TBD | TBD       |
 | Mar 13, 2025 | Lecheng Zheng |  TBD   |    TBD    |
-| Mar 20, 2025 | Zihao Li   | TBD    | TBD       |
+| Mar 20, 2025 | 🌈Happy   | Spring    | Break🍀       |
 | Mar 27, 2025 | Gaotang Li | TBD   | TBD       |
 | Apr 3, 2025  | Xinyu He, Xinrui He | TBD    |           |
 | Apr 10, 2025 | Ting-Wei Li |  TBD  |     TBD   |
 | Apr 17, 2025 |  Hyunsik Yoo          |    TBD    |           |
 | Apr 24, 2025 |     Ziwei Wu       |     TBD   |      TBD     |
 | May 1, 2025  | Sirui Chen | TBD |   TBD   |
-| May 8, 2025  |            |        |           |
+| May 8, 2025  | Zihao Li   | TBD    | TBD       |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2024:</span>
 
