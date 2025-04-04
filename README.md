@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 20, 2025 | Zhining Liu | Tutorial for Making Research Plots  | [Slides](https://docs.google.com/presentation/d/1k0zfOAXeNAJsosuHOae6pnvx9GRUiekHZUKhtj4h9tw/edit?usp=sharing)  |
 | Feb 27, 2025 | Xuying Ning | Iterative Preference Optimization in VLM and Recommendation | [Slides](https://docs.google.com/presentation/d/1IBS0Bj2_qz7g6-EaL4YnjD7airVgjhzgRNgSNa3X1xo/edit?usp=sharing) |
 | Mar 6, 2025  | Tianxin Wei | TBD | TBD       |
-| Mar 13, 2025 | Lecheng Zheng |  TBD   |    TBD    |
+| Mar 13, 2025 | Lecheng Zheng | Attempts on Graph Foundation Model | [Slides](https://docs.google.com/presentation/d/1wI4fczptXwrjQCiD2Q8weK91o98ygD2zH_inYB8Ax4c/edit?usp=sharing) |
 | Mar 20, 2025 | 🌈Happy   | Spring    | Break🍀       |
 | Mar 27, 2025 | Gaotang Li | TBD   | TBD       |
 | Apr 3, 2025  | Xinyu He, Xinrui He | TBD    |           |
