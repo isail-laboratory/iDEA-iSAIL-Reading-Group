@@ -30,7 +30,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 27, 2025 | Gaotang Li | TBD   | TBD       |
 | Apr 3, 2025  | Xinyu He, Xinrui He | TBD    |           |
 | Apr 10, 2025 | Ting-Wei Li |  TBD  |     TBD   |
-| Apr 17, 2025 |  Hyunsik Yoo          |    TBD    |           |
+| Apr 17, 2025 |  Hyunsik Yoo          |    Continual LoRA    |   [Slides](https://docs.google.com/presentation/d/1uSsEsaE4Bz94wYLCN7dFyC2ZUQbPSdBC/edit?usp=sharing&ouid=102567386705367193135&rtpof=true&sd=true)        |
 | Apr 24, 2025 |     Ziwei Wu       |     TBD   |      TBD     |
 | May 1, 2025  | Sirui Chen | TBD |   TBD   |
 | May 8, 2025  | Zihao Li   | TBD    | TBD       |
