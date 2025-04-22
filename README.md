@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 13, 2025 | Lecheng Zheng | Attempts on Graph Foundation Model | [Slides](https://docs.google.com/presentation/d/1wI4fczptXwrjQCiD2Q8weK91o98ygD2zH_inYB8Ax4c/edit?usp=sharing) |
 | Mar 20, 2025 | 🌈Happy   | Spring    | Break🍀       |
 | Mar 27, 2025 | Gaotang Li | TBD   | TBD       |
-| Apr 3, 2025  | Xinyu He, Xinrui He | TBD    |           |
+| Apr 3, 2025  | Xinyu He, Xinrui He | Findings in Language Model for Recommendation | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20250404.pdf) |
 | Apr 10, 2025 | Ting-Wei Li |  TBD  |     TBD   |
 | Apr 17, 2025 |  Hyunsik Yoo          |    Continual LoRA    |   [Slides](https://docs.google.com/presentation/d/1uSsEsaE4Bz94wYLCN7dFyC2ZUQbPSdBC/edit?usp=sharing&ouid=102567386705367193135&rtpof=true&sd=true)        |
 | Apr 24, 2025 |     Ziwei Wu       |     TBD   |      TBD     |
