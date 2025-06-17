@@ -33,7 +33,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 17, 2025 |  Hyunsik Yoo          |    Continual LoRA    |   [Slides](https://docs.google.com/presentation/d/1uSsEsaE4Bz94wYLCN7dFyC2ZUQbPSdBC/edit?usp=sharing&ouid=102567386705367193135&rtpof=true&sd=true)        |
 | Apr 24, 2025 |     Ziwei Wu       |     TBD   |      TBD     |
 | May 1, 2025  | Sirui Chen | Process Reward Models |   [Slides](https://docs.google.com/presentation/d/1_mnkvkOcAjj2p54Ku8zrwlRtKaOW-mIM/edit?usp=sharing&ouid=104316325668630562204&rtpof=true&sd=true)   |
-| May 8, 2025  | Zihao Li   | TBD    | TBD       |
+| May 8, 2025  | Zihao Li   | Recontextualization in the era of FMs & LLMs | [Slides](https://docs.google.com/presentation/d/1GW-e2u3hjehIj5s665fjSFza4KwDZ5XmDRfdtXF7xYk/edit?usp=sharing)   |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2024:</span>
 
