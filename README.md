@@ -4,7 +4,7 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meeting.</span>
 
-**Time**: 9:00am - 10:00am CDT, every Thursday.
+**Time**: 9:00am - 10:00am CDT, every Wednesday.
 
 **Room**: TBD
 
