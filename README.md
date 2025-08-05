@@ -14,6 +14,28 @@ Unless otherwise notified, our reading group for **Spring 2025** is scheduled as
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to present a week ahead of your presentation.
 
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2025:</span>
+
+| Dates        | Presenters | Topics | Materials |
+|--------------|------------|--------|-----------|
+| Sep 3, 2025  |            |        |           |
+| Sep 10, 2025 |            |        |           |
+| Sep 17, 2025 |            |        |           |
+| Sep 24, 2025 |            |        |           |
+| Oct 1, 2025  |            |        |           |
+| Oct 8, 2025  |            |        |           |
+| Oct 15, 2025 |            |        |           |
+| Oct 22, 2025 |            |        |           |
+| Oct 29, 2025 |            |        |           |
+| Nov 5, 2025  |            |        |           |
+| Nov 12, 2025 |            |        |           |
+| Nov 19, 2025 |            |        |           |
+| Nov 26, 2025 |            |        |           |
+| Dec 3, 2025  |            |        |           |
+| Dec 10, 2025 |            |        |           |
+
+
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2025:</span>
 
 | Dates        | Presenters | Topics | Materials |
