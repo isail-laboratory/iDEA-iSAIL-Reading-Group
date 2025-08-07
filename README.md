@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates        | Presenters | Topics | Materials |
 |--------------|------------|--------|-----------|
-| Sep 3, 2025  |            |        |           |
+| Sep 3, 2025  | All Members | Plan for Fall 2025 | N/A |
 | Sep 10, 2025 |            |        |           |
 | Sep 17, 2025 |            |        |           |
 | Sep 24, 2025 |            |        |           |
@@ -40,7 +40,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates        | Presenters | Topics | Materials |
 |--------------|------------|--------|-----------|
-| Jan 23, 2025 | All Members | Plan for Spring2025 | N/A   |
+| Jan 23, 2025 | All Members | Plan for Spring 2025 | N/A   |
 | Jan 30, 2025 | Prof. Tong, Ruizhong, Tingwei, Zhining |  Data Attribution Discussion  |           |
 | Feb 6, 2025  | Zhe Xu | Flow Matching | [Slides](https://drive.google.com/file/d/1aiwdiTmuYGJW0wuwH-ivHmFvWZgEhrqq/view?usp=sharing) |
 | Feb 13, 2025 | Xiao Lin, Zhe Xu, Jiaru Zou | NeurIPS 2024 Debriefing  | [Slides](https://docs.google.com/presentation/d/1EyfXR3nkrKERnq-vZJ7LByWQ-2CUqcxxdtgB0Qi-lFo/edit#slide=id.p)       |
