@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 1, 2025  |            |        |           |
 | Oct 8, 2025  |            |        |           |
 | Oct 15, 2025 |Ruizhong Qiu|        |           |
-| Oct 22, 2025 |            |        |           |
+| Oct 22, 2025 |Zihao Li    | TBD    |    TBD    |
 | Oct 29, 2025 |            |        |           |
 | Nov 5, 2025  |            |        |           |
 | Nov 12, 2025 |Zhichen Zeng|        |           |
