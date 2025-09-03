@@ -26,11 +26,11 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 1, 2025  |            |        |           |
 | Oct 8, 2025  |            |        |           |
 | Oct 15, 2025 |Ruizhong Qiu|        |           |
-| Oct 22, 2025 |Zihao Li    | TBD    |    TBD    |
+| Oct 22, 2025 |            |        |           |
 | Oct 29, 2025 |            |        |           |
 | Nov 5, 2025  |            |        |           |
-| Nov 12, 2025 |Zhichen Zeng|        |           |
-| Nov 19, 2025 |            |        |           |
+| Nov 12, 2025 |            |        |           |
+| Nov 19, 2025 |Zhichen Zeng|        |           |
 | Nov 26, 2025 |            |        |           |
 | Dec 3, 2025  |            |        |           |
 | Dec 10, 2025 |            |        |           |
