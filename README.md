@@ -20,8 +20,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dates        | Presenters | Topics | Materials |
 |--------------|------------|--------|-----------|
 | Sep 3, 2025  | All Members | Plan for Fall 2025 | N/A |
-| Sep 10, 2025 |            |        |           |
-| Sep 17, 2025 |            |        |           |
+| Sep 10, 2025 | Zhining et al.     |  KDD/ICML/ICLR debriefing      |           |
+| Sep 17, 2025 | Zhining et al.     |        |           |
 | Sep 24, 2025 |            |        |           |
 | Oct 1, 2025  |            |        |           |
 | Oct 8, 2025  |            |        |           |
