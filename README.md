@@ -21,7 +21,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 |--------------|------------|--------|-----------|
 | Sep 3, 2025  | All Members | Plan for Fall 2025 | N/A |
 | Sep 10, 2025 | Oliver et al.      |  ICML debriefing      |  [Slides](https://docs.google.com/presentation/d/1wLb2O4kkygnLUFdoEXbBucOzIgEUVRoYh_pkWe_2Wfo/edit?usp=sharing)  |
-| Sep 17, 2025 | Zhining et al.     |  ICML/KDD/ICLR debriefing |  TBD         |
+| Sep 17, 2025 | Zhining et al.     |  ICML/KDD/ICLR debriefing |  [Slides on Benchmark](https://docs.google.com/presentation/d/11m3uqwt73nntYAqC0zb49HJkLEoO6sGqmmxCMwZB304/edit?usp=sharing)         |
 | Sep 24, 2025 | Zhining et al.     |  KDD/ICLR debriefing |  TBD  |
 | Oct 1, 2025  |Sirui Chen  |Long-Context Modeling   |           |
 | Oct 8, 2025  |            |        |           |
