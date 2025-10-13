@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 24, 2025 | Skipped    |   |    |
 | Oct 1, 2025  | Zhining et al.  | KDD/ICLR debriefing  |           |
 | Oct 8, 2025  | Sirui Chen   | Long-Context Modeling   |           |
-| Oct 15, 2025 |Ruizhong Qiu|        |           |
+| Oct 15, 2025 |Ruizhong Qiu|Matrix-based optimizers for neural networks|           |
 | Oct 22, 2025 |Zihao Li    | TBD    |    TBD    |
 | Oct 29, 2025 |Tianxin Wei  |       |           |
 | Nov 5, 2025  |Lingjie Chen|        |           |
