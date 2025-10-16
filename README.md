@@ -24,7 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 17, 2025 | Zhining et al.     |  ICML/KDD/ICLR debriefing |  [Slides on Benchmark](https://docs.google.com/presentation/d/11m3uqwt73nntYAqC0zb49HJkLEoO6sGqmmxCMwZB304/edit?usp=sharing)         |
 | Sep 24, 2025 | Skipped    |   |    |
 | Oct 1, 2025  | Zhining et al.  | KDD/ICLR debriefing  |           |
-| Oct 8, 2025  | Sirui Chen   | Long-Context Modeling   |           |
+| Oct 8, 2025  | Sirui Chen   | Long-Context Modeling   | [Slides](https://docs.google.com/presentation/d/1rvehmFxA7lT3OQYaH42Cj3-o6ty5CirU/edit?usp=sharing&ouid=104316325668630562204&rtpof=true&sd=true)          |
 | Oct 15, 2025 |Ruizhong Qiu|Matrix-based optimizers|           |
 | Oct 22, 2025 |Zihao Li    | TBD    |    TBD    |
 | Oct 29, 2025 |Tianxin Wei  |       |           |
