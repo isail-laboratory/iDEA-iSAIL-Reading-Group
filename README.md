@@ -27,8 +27,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 8, 2025  | Sirui Chen   | Long-Context Modeling   | [Slides](https://docs.google.com/presentation/d/1rvehmFxA7lT3OQYaH42Cj3-o6ty5CirU/edit?usp=sharing&ouid=104316325668630562204&rtpof=true&sd=true)          |
 | Oct 15, 2025 |Ruizhong Qiu|Matrix-based optimizers|           |
 | Oct 22, 2025 |Zihao Li    | TBD    |    TBD    |
-| Oct 29, 2025 |Tianxin Wei  |       |           |
-| Nov 5, 2025  |Lingjie Chen|        |           |
+| Oct 29, 2025 |Lingjie Chen |       |           |
+| Nov 5, 2025  |Tianxin Wei|        |           |
 | Nov 12, 2025 |Zhichen Zeng|        |           |
 | Nov 19, 2025 | Mengting Ai           |        |           |
 | Nov 26, 2025 |            |        |           |
