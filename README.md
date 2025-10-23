@@ -31,7 +31,6 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 5, 2025  | Zhining Liu | Prelim Dry Run |           |
 | Nov 12, 2025 | Zhichen Zeng |        |           |
 | Nov 19, 2025 | Mengting Ai           |        |           |
-| Nov 26, 2025 |            |        |           |
 | Dec 3, 2025  |            |        |           |
 | Dec 10, 2025 |            |        |           |
 
