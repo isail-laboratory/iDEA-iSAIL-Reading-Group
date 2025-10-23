@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 15, 2025 | Ruizhong Qiu | Matrix-based optimizers | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20241003.pdf) |
 | Oct 22, 2025 | Zihao Li, Speakers: Xuying, Sirui   | DeepSeek-OCR; i-i Vault: Tool Use for Everyday Research | [DeepSeek-OCR](https://uofi.box.com/s/qomqlguacayehllupw3r9s8i5xcl096d) [Vault](https://uofi.box.com/s/lp0ki1topp91us9t0pmlzghyoe8716v6) |
 | Oct 29, 2025 | Lingjie Chen |       |           |
-| Nov 5, 2025  | Tianxin Wei |        |           |
+| Nov 5, 2025  | Zhining Liu | Prelim Dry Run |           |
 | Nov 12, 2025 | Zhichen Zeng |        |           |
 | Nov 19, 2025 | Mengting Ai           |        |           |
 | Nov 26, 2025 |            |        |           |
