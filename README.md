@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 22, 2025 | Zihao Li, Speakers: Xuying, Sirui   | DeepSeek-OCR; i-i Vault: Tool Use for Everyday Research | [DeepSeek-OCR](https://uofi.box.com/s/qomqlguacayehllupw3r9s8i5xcl096d) [Vault](https://uofi.box.com/s/lp0ki1topp91us9t0pmlzghyoe8716v6) |
 | Oct 29, 2025 | Lingjie Chen |       |           |
 | Nov 5, 2025  | Zhining Liu | Prelim Dry Run |           |
-| Nov 12, 2025 | Zhichen Zeng |        |           |
+| Nov 12, 2025 | Zhichen Zeng | Prelim Dry Run |           |
 | Nov 19, 2025 | Mengting Ai           |        |           |
 | Dec 3, 2025  |            |        |           |
 | Dec 10, 2025 |            |        |           |
