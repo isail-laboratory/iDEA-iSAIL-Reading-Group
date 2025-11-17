@@ -30,7 +30,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 29, 2025 | Lingjie Chen |       |           |
 | Nov 5, 2025  | Zhining Liu | Prelim Dry Run |           |
 | Nov 12, 2025 | Zhichen Zeng |        |           |
-| Nov 19, 2025 |           |        |           |
+| Nov 19, 2025 | Yanjun Zhao          |        |           |
 | Dec 3, 2025  | Mengting Ai            |        |           |
 | Dec 10, 2025 |            |        |           |
 
