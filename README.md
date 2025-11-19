@@ -31,8 +31,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 5, 2025  | Zhining Liu | Prelim Dry Run |           |
 | Nov 12, 2025 | Zhichen Zeng | Prelim Dry Run       |           |
 | Nov 19, 2025 | Yanjun Zhao          | World Models       |           |
-| Dec 3, 2025  | Mengting Ai            |        |           |
-| Dec 10, 2025 |            |        |           |
+| Dec 3, 2025  | Mengting Ai         | TBD        |   TBD        |
+| Dec 10, 2025 | Yuanchen Bei     | Agent Memory     | TBD          |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2025:</span>
