@@ -19,23 +19,23 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates | Presenters | Topics | Materials |
 |------|------------|--------|-----------|
-| Jan 21, 2026 | | | |
-| Jan 28, 2026 | | | |
-| Feb 4, 2026 | | | |
-| Feb 11, 2026 | | | |
-| Feb 18, 2026 | | | |
-| Feb 25, 2026 | | | |
-| Mar 4, 2026 | | | |
-| Mar 11, 2026 | | | |
-| Mar 18, 2026 | | | |
-| Mar 25, 2026 | | | |
-| Apr 1, 2026 | | | |
-| Apr 8, 2026 | | | |
-| Apr 15, 2026 | | | |
-| Apr 22, 2026 | | | |
-| Apr 29, 2026 | | | |
-| May 6, 2026 | | | |
-| May 13, 2026 | | | |
+| #1 Jan 21, 2026 | | | |
+| #2 Jan 28, 2026 | | | |
+| #3 Feb 4, 2026 | | | |
+| #4 Feb 11, 2026 | | | |
+| #5 Feb 18, 2026 | | | |
+| #6 Feb 25, 2026 | | | |
+| #7 Mar 4, 2026 | | | |
+| #8 Mar 11, 2026 | | | |
+| #9 Mar 25, 2026 | | | |
+| #- Mar 18, 2026 | Spring Break | | |
+| #10 Apr 1, 2026 | | | |
+| #11 Apr 8, 2026 | | | |
+| #12 Apr 15, 2026 | | | |
+| #13 Apr 22, 2026 | | | |
+| #14 Apr 29, 2026 | | | |
+| #15 May 6, 2026 | | | |
+| #16 May 13, 2026 | | | |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2025:</span>
