@@ -10,9 +10,32 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 **Zoom (if online)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
-Unless otherwise notified, our reading group for **Spring 2025** is scheduled as follows. If you would like to present in an upcoming meeting, please edit the README.md and submit a pull request for registering. </span>
+Unless otherwise notified, our reading group for **Spring 2026** is scheduled as follows. If you would like to present in an upcoming meeting, please edit the README.md and submit a pull request for registering. </span>
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to present a week ahead of your presentation.
+
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2026:</span>
+
+| Dates | Presenters | Topics | Materials |
+|------|------------|--------|-----------|
+| Jan 21, 2026 | | | |
+| Jan 28, 2026 | | | |
+| Feb 4, 2026 | | | |
+| Feb 11, 2026 | | | |
+| Feb 18, 2026 | | | |
+| Feb 25, 2026 | | | |
+| Mar 4, 2026 | | | |
+| Mar 11, 2026 | | | |
+| Mar 18, 2026 | | | |
+| Mar 25, 2026 | | | |
+| Apr 1, 2026 | | | |
+| Apr 8, 2026 | | | |
+| Apr 15, 2026 | | | |
+| Apr 22, 2026 | | | |
+| Apr 29, 2026 | | | |
+| May 6, 2026 | | | |
+| May 13, 2026 | | | |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2025:</span>
