@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #7 Mar 4, 2026 | | | |
 | #8 Mar 11, 2026 | | | |
 | #- Mar 18, 2026 | Spring Break | | |
-| #9 Mar 25, 2026 | | | |
+| #9 Mar 25, 2026 | Xinyu | | |
 | #10 Apr 1, 2026 | | | |
 | #11 Apr 8, 2026 | | | |
 | #12 Apr 15, 2026 | | | |
