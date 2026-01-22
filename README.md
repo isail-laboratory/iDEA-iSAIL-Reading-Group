@@ -19,8 +19,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates | Presenters | Topics | Materials |
 |------|------------|--------|-----------|
-| #1 Jan 21, 2026 | Opening | | |
-| #2 Jan 28, 2026 |  |  | |
+| #1 Jan 21, 2026 | Opening & Semeseter Planning | | |
+| #2 Jan 28, 2026 | Opening & Semeseter Planning |  | |
 | #3 Feb 4, 2026 | Zi-hao and Ting-Wei | NeurIPS Debriefing | |
 | #4 Feb 11, 2026 | | | |
 | #5 Feb 18, 2026 | | | |
