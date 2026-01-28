@@ -35,7 +35,6 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #13 Apr 22, 2026 | | | |
 | #14 Apr 29, 2026 | | | |
 | #15 May 6, 2026 | | | |
-| #16 May 13, 2026 | | | |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2025:</span>
