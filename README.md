@@ -24,7 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #3 Feb 4, 2026 | Zi-hao, Ting-Wei and Ruizhong| NeurIPS Debriefing & A Proposal | |
 | #4 Feb 11, 2026 | Ting-Wei and Lingjie | NeurIPS Debriefing & dLLM | |
 | #5 Feb 18, 2026 | | | |
-| #6 Feb 25, 2026 | | | |
+| #6 Feb 25, 2026 | Rubin | Test-time Discovery | |
 | #7 Mar 4, 2026 | Kaifeng | | |
 | #8 Mar 11, 2026 | | | |
 | #- Mar 18, 2026 | Spring Break | | |
