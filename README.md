@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #5 Feb 18, 2026 | | | |
 | #6 Feb 25, 2026 | Rubin | Test-time Discovery | |
 | #7 Mar 4, 2026 | Kaifeng | | |
-| #8 Mar 11, 2026 | | | |
+| #8 Mar 11, 2026 | Xiao Lin | | |
 | #- Mar 18, 2026 | Spring Break | | |
 | #9 Mar 25, 2026 | Xinyu | | |
 | #10 Apr 1, 2026 | | | |
