@@ -21,7 +21,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 |------|------------|--------|-----------|
 | #1 Jan 21, 2026 | Opening & Semeseter Planning | | |
 | #2 Jan 28, 2026 | Opening & Semeseter Planning |  | |
-| #3 Feb 4, 2026 | Zi-hao, Ting-Wei and Ruizhong| NeurIPS Debriefing & A Proposal | |
+| #3 Feb 4, 2026 | Zi-hao, Ting-Wei and Ruizhong| NeurIPS Debriefing & A Proposal | [Slides](https://uofi.box.com/s/9brsorr7el3dixnkuiy2p0fbxmvbffic) |
 | #4 Feb 11, 2026 | Ting-Wei and Hyunsik | NeurIPS Debriefing &  | |
 | #5 Feb 18, 2026 | Lingjie and Haobo | dLLM | |
 | #6 Feb 25, 2026 | Rubin | Test-time Discovery | |
