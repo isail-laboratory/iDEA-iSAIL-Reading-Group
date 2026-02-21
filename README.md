@@ -22,11 +22,11 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #1 Jan 21, 2026 | Opening & Semeseter Planning | | |
 | #2 Jan 28, 2026 | Opening & Semeseter Planning |  | |
 | #3 Feb 4, 2026 | Zi-hao, Ting-Wei and Ruizhong| NeurIPS Debriefing & A Proposal | [Slides](https://uofi.box.com/s/9brsorr7el3dixnkuiy2p0fbxmvbffic) |
-| #4 Feb 11, 2026 | Ting-Wei and Hyunsik | NeurIPS Debriefing &  | |
-| #5 Feb 18, 2026 | Lingjie and Haobo | dLLM | |
-| #6 Feb 25, 2026 | Rubin | Test-time Discovery | |
-| #7 Mar 4, 2026 | Kaifeng | | |
-| #8 Mar 11, 2026 | Xiao Lin | | |
+| #4 Feb 11, 2026 | Ting-Wei and Hyunsik | NeurIPS Debriefing &  | [Slides](https://uofi.box.com/s/06kdjh6c8bea9wr0lfe77n8ouo0ajtel) |
+| #5 Feb 18, 2026 | Haobo | dLLM: Part I | [Slides](https://uofi.box.com/s/zogwwmwpbkmy1ikfoyen1xpaso4ztyvl) |
+| #6 Feb 25, 2026 | Lingjie | dLLM: Part II | |
+| #7 Mar 4, 2026 | Rubin | Test-time Discovery | |
+| #8 Mar 11, 2026 | Kaifeng, Xiao Lin | | |
 | #- Mar 18, 2026 | Spring Break | | |
 | #9 Mar 25, 2026 | | | |
 | #10 Apr 1, 2026 | Qi | | |
