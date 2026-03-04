@@ -26,13 +26,13 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #5 Feb 18, 2026 | Haobo | dLLM: Part I | [Slides](https://uofi.box.com/s/zogwwmwpbkmy1ikfoyen1xpaso4ztyvl) |
 | #6 Feb 25, 2026 | Lingjie | dLLM: Part II | |
 | #7 Mar 4, 2026 | Rubin | Test-time Discovery | |
-| #8 Mar 11, 2026 | Kaifeng, Xiao Lin | | |
+| #8 Mar 11, 2026 | Kaifeng | | |
 | #- Mar 18, 2026 | Spring Break | | |
 | #9 Mar 25, 2026 | | | |
-| #10 Apr 1, 2026 | Qi | | |
+| #10 Apr 1, 2026 | | | |
 | #11 Apr 8, 2026 | Xinyu | | |
 | #12 Apr 15, 2026 | Xuying | | |
-| #13 Apr 22, 2026 | | | |
+| #13 Apr 22, 2026 | Qi Yu, Xiao Lin | | |
 | #14 Apr 29, 2026 | | | |
 | #15 May 6, 2026 | | | |
 
