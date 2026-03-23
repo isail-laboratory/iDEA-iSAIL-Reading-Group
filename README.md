@@ -34,7 +34,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #12 Apr 15, 2026 | Xuying | | |
 | #13 Apr 22, 2026 | Qi Yu, Xiao Lin | | |
 | #14 Apr 29, 2026 | Xinyu | | |
-| #15 May 6, 2026 | | | |
+| #15 May 6, 2026 | Hyunsik | | |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2025:</span>
