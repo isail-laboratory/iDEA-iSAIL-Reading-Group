@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #5 Feb 18, 2026 | Haobo | dLLM: Part I | [Slides](https://uofi.box.com/s/zogwwmwpbkmy1ikfoyen1xpaso4ztyvl) |
 | #6 Feb 25, 2026 | Lingjie | dLLM: Part II | [Slides](https://uofi.box.com/s/d07xmoumbye83imvmkwz25em0qlm1nrz) |
 | #7 Mar 4, 2026 | Rubin | Test-time Discovery | |
-| #8 Mar 11, 2026 | Kaifeng | | |
+| #8 Mar 11, 2026 | Kaifeng | Symbolic Regression | |
 | #- Mar 18, 2026 | Spring Break | | |
 | #9 Mar 25, 2026 | | | |
 | #10 Apr 1, 2026 | | | |
