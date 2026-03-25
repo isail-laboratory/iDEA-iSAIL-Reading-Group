@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #8 Mar 11, 2026 | Kaifeng | Symbolic Regression | |
 | #- Mar 18, 2026 | Spring Break | | |
 | #9 Mar 25, 2026 | | | |
-| #10 Apr 1, 2026 | | | |
+| #10 Apr 1, 2026 | Sirui Chen | Exploration in LLMs  | |
 | #11 Apr 8, 2026 | Tianxin Wei | Prelim Exam | Personal ML and Agent |
 | #12 Apr 15, 2026 | Xuying | | |
 | #13 Apr 22, 2026 | Qi Yu, Xiao Lin | | |
