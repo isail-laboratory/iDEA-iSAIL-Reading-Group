@@ -31,8 +31,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #9 Mar 25, 2026 | | | |
 | #10 Apr 1, 2026 | Sirui Chen | Exploration in LLMs  | |
 | #11 Apr 8, 2026 | Tianxin Wei | Prelim Exam | Personal ML and Agent |
-| #12 Apr 15, 2026 | Xuying | | |
-| #13 Apr 22, 2026 | Qi Yu, Xiao Lin | | |
+| #12 Apr 15, 2026 | Xuying, Xiao Lin | | |
+| #13 Apr 22, 2026 | Qi Yu | | |
 | #14 Apr 29, 2026 | Xinyu | | |
 | #15 May 6, 2026 | Hyunsik | | |
 
