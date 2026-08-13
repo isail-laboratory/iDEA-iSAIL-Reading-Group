@@ -15,6 +15,35 @@ Unless otherwise notified, our reading group for **Spring 2026** is scheduled as
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to present a week ahead of your presentation.
 
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2026:</span>
+
+| Dates | Presenters | Topics | Materials |
+|------|------------|--------|-----------|
+| #1 Aug 26, 2026 | Opening & Semeseter Planning | | |
+| #2 Sep 2, 2026 |  |  |  |
+| #3 Sep 9, 2026 |  |  |  |
+| #4 Sep 16, 2026 |  |  |  |
+| #5 Sep 23, 2026 |  |  |  |
+| #6 Sep 30, 2026 |  |  |  |
+| #7 Oct 7, 2026 |  |  |  |
+| #8 Oct 14, 2026 |  |  |  |
+| #9 Oct 21, 2026 |  |  |  |
+| #10 Oct 28, 2026 |  |  |  |
+| #11 Nov 4, 2026 |  |  |  |
+| #12 Nov 11, 2026 |  |  |  |
+| #13 Nov 18, 2026 |  |  |  |
+| #14 Nov 25, 2026 |  |  |  |
+| #15 Dec 2, 2026 |  |  |  |
+| #16 Dec 7, 2026 |  |  |  |
+
+
+
+
+
+
+
+
+
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2026:</span>
 
 | Dates | Presenters | Topics | Materials |
