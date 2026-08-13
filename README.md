@@ -20,9 +20,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dates | Presenters | Topics | Materials |
 |------|------------|--------|-----------|
 | #1 Aug 26, 2026 | Opening & Semeseter Planning | | |
-| #2 Sep 2, 2026 |  |  |  |
-| #3 Sep 9, 2026 |  |  |  |
-| #4 Sep 16, 2026 |  |  |  |
+| #2 Sep 2, 2026 | ACL 2026 Debriefing |  |  |
+| #3 Sep 9, 2026 | ICML 2026 Debriefing |  |  |
+| #4 Sep 16, 2026 | KDD 2026 Debriefing |  |  |
 | #5 Sep 23, 2026 |  |  |  |
 | #6 Sep 30, 2026 |  |  |  |
 | #7 Oct 7, 2026 |  |  |  |
