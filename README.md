@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #5 Sep 23, 2026 | ICML 2026 Debriefing |  |  |
 | #6 Sep 30, 2026 | KDD 2026 Debriefing |  |  |
 | #7 Oct 7, 2026 |  |  |  |
-| #8 Oct 14, 2026 |  |  |  |
+| #8 Oct 14, 2026 | Xiyuan Yang, Ruizhong Qiu | Quantum |  |
 | #9 Oct 21, 2026 |  |  |  |
 | #10 Oct 28, 2026 | Ting-Wei Li | TBD |  |
 | #11 Nov 4, 2026 |  |  |  |
