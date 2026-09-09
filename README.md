@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | #7 Oct 7, 2026 |  |  |  |
 | #8 Oct 14, 2026 |  |  |  |
 | #9 Oct 21, 2026 |  |  |  |
-| #10 Oct 28, 2026 |  |  |  |
+| #10 Oct 28, 2026 | Ting-Wei Li | TBD |  |
 | #11 Nov 4, 2026 |  |  |  |
 | #12 Nov 11, 2026 |  |  |  |
 | #13 Nov 18, 2026 |  |  |  |
